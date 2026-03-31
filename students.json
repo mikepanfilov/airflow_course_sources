@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "firstname": "Ярослав",
+    "lastname": "Дмитриев",
+    "email": "yadmitriev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-07-12T07:44:29"
+  },
+  {
+    "id": 2,
+    "firstname": "Ксения",
+    "lastname": "Максимова",
+    "email": "kmaksimova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2025-02-22T05:12:06"
+  },
+  {
+    "id": 3,
+    "firstname": "Софья",
+    "lastname": "Егорова",
+    "email": "segorova@edu.hse.ru",
+    "position": "ассистент",
+    "registered_at": "2026-01-16T09:33:58"
+  },
+  {
+    "id": 4,
+    "firstname": "Людмила",
+    "lastname": "Королёва",
+    "email": "lkoroleva@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2024-06-23T13:10:47"
+  },
+  {
+    "id": 5,
+    "firstname": "Артём",
+    "lastname": "Сергеев",
+    "email": "asergeev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2025-07-14T03:18:35"
+  },
+  {
+    "id": 6,
+    "firstname": "Георгий",
+    "lastname": "Михайлов",
+    "email": "gmikhaylov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-09-18T22:50:40"
+  },
+  {
+    "id": 7,
+    "firstname": "Степан",
+    "lastname": "Сорокин",
+    "email": "ssorokin@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2024-09-25T21:42:52"
+  },
+  {
+    "id": 8,
+    "firstname": "Алексей",
+    "lastname": "Захаров",
+    "email": "azakharov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2025-04-01T19:15:52"
+  },
+  {
+    "id": 9,
+    "firstname": "Вера",
+    "lastname": "Иванова",
+    "email": "vivanova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-04-14T19:33:01"
+  },
+  {
+    "id": 10,
+    "firstname": "Светлана",
+    "lastname": "Максимова",
+    "email": "smaksimova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-10-25T04:03:41"
+  },
+  {
+    "id": 11,
+    "firstname": "Валерия",
+    "lastname": "Морозова",
+    "email": "vmorozova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2025-02-01T00:07:05"
+  },
+  {
+    "id": 12,
+    "firstname": "Ирина",
+    "lastname": "Антонова",
+    "email": "iantonova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2022-01-01T18:29:02"
+  },
+  {
+    "id": 13,
+    "firstname": "Георгий",
+    "lastname": "Ильин",
+    "email": "gilin@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-05-07T23:15:48"
+  },
+  {
+    "id": 14,
+    "firstname": "Артём",
+    "lastname": "Никитин",
+    "email": "anikitin@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-10-23T19:38:17"
+  },
+  {
+    "id": 15,
+    "firstname": "Павел",
+    "lastname": "Орлов",
+    "email": "porlov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2025-06-24T00:42:32"
+  },
+  {
+    "id": 16,
+    "firstname": "Ярослав",
+    "lastname": "Никитин",
+    "email": "yanikitin@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-06-13T08:43:05"
+  },
+  {
+    "id": 17,
+    "firstname": "Даниил",
+    "lastname": "Дмитриев",
+    "email": "ddmitriev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2020-11-18T03:07:06"
+  },
+  {
+    "id": 18,
+    "firstname": "Евгения",
+    "lastname": "Васильева",
+    "email": "evasileva@edu.hse.ru",
+    "position": "ассистент",
+    "registered_at": "2025-12-21T04:34:43"
+  },
+  {
+    "id": 19,
+    "firstname": "Виктор",
+    "lastname": "Романов",
+    "email": "vromanov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2026-03-01T06:00:43"
+  },
+  {
+    "id": 20,
+    "firstname": "Ирина",
+    "lastname": "Гусева",
+    "email": "iguseva@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2024-09-29T07:42:40"
+  },
+  {
+    "id": 21,
+    "firstname": "Глеб",
+    "lastname": "Николаев",
+    "email": "gnikolaev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2024-06-22T23:39:40"
+  },
+  {
+    "id": 22,
+    "firstname": "Анастасия",
+    "lastname": "Кузьмина",
+    "email": "akuzmina@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2025-01-23T04:24:20"
+  },
+  {
+    "id": 23,
+    "firstname": "Даниил",
+    "lastname": "Васильев",
+    "email": "dvasilev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-10-16T00:45:57"
+  },
+  {
+    "id": 24,
+    "firstname": "Денис",
+    "lastname": "Семёнов",
+    "email": "dsemenov@edu.hse.ru",
+    "position": "ассистент",
+    "registered_at": "2020-01-30T02:35:05"
+  },
+  {
+    "id": 25,
+    "firstname": "Тимур",
+    "lastname": "Кузнецов",
+    "email": "tkuznetsov@edu.hse.ru",
+    "position": "преподаватель",
+    "registered_at": "2023-09-15T02:34:47"
+  },
+  {
+    "id": 26,
+    "firstname": "Егор",
+    "lastname": "Поляков",
+    "email": "epolyakov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2025-06-11T07:48:00"
+  },
+  {
+    "id": 27,
+    "firstname": "Марк",
+    "lastname": "Дмитриев",
+    "email": "mdmitriev@edu.hse.ru",
+    "position": "преподаватель",
+    "registered_at": "2025-04-20T08:50:50"
+  },
+  {
+    "id": 28,
+    "firstname": "Алёна",
+    "lastname": "Соловьёва",
+    "email": "asoloveva@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2022-02-18T03:26:03"
+  },
+  {
+    "id": 29,
+    "firstname": "Виктор",
+    "lastname": "Борисов",
+    "email": "vborisov@edu.hse.ru",
+    "position": "куратор",
+    "registered_at": "2023-12-22T15:25:19"
+  },
+  {
+    "id": 30,
+    "firstname": "Анастасия",
+    "lastname": "Белова",
+    "email": "abelova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2020-08-09T23:47:29"
+  },
+  {
+    "id": 31,
+    "firstname": "Дмитрий",
+    "lastname": "Зайцев",
+    "email": "dzaytsev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-10-21T03:58:42"
+  },
+  {
+    "id": 32,
+    "firstname": "Михаил",
+    "lastname": "Алексеев",
+    "email": "malekseev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2026-01-05T16:20:00"
+  },
+  {
+    "id": 33,
+    "firstname": "Роман",
+    "lastname": "Волков",
+    "email": "rvolkov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-02-14T16:50:37"
+  },
+  {
+    "id": 34,
+    "firstname": "Георгий",
+    "lastname": "Васильев",
+    "email": "gvasilev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2024-12-20T20:02:12"
+  },
+  {
+    "id": 35,
+    "firstname": "Дмитрий",
+    "lastname": "Максимов",
+    "email": "dmaksimov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2026-01-23T00:32:14"
+  },
+  {
+    "id": 36,
+    "firstname": "Ярослав",
+    "lastname": "Антонов",
+    "email": "yaantonov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2022-08-26T06:03:18"
+  },
+  {
+    "id": 37,
+    "firstname": "Юлия",
+    "lastname": "Романова",
+    "email": "yuromanova@edu.hse.ru",
+    "position": "ассистент",
+    "registered_at": "2022-05-25T14:36:05"
+  },
+  {
+    "id": 38,
+    "firstname": "Никита",
+    "lastname": "Захаров",
+    "email": "nzakharov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2020-01-09T14:12:53"
+  },
+  {
+    "id": 39,
+    "firstname": "Карина",
+    "lastname": "Григорьева",
+    "email": "kgrigoreva@edu.hse.ru",
+    "position": "куратор",
+    "registered_at": "2023-03-14T15:24:04"
+  },
+  {
+    "id": 40,
+    "firstname": "Софья",
+    "lastname": "Алексеева",
+    "email": "salekseeva@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-04-30T07:55:34"
+  },
+  {
+    "id": 41,
+    "firstname": "Денис",
+    "lastname": "Медведев",
+    "email": "dmedvedev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2026-01-29T02:13:09"
+  },
+  {
+    "id": 42,
+    "firstname": "Мария",
+    "lastname": "Попова",
+    "email": "mpopova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2025-05-06T18:18:29"
+  },
+  {
+    "id": 43,
+    "firstname": "Дмитрий",
+    "lastname": "Сергеев",
+    "email": "dsergeev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2020-11-24T06:45:56"
+  },
+  {
+    "id": 44,
+    "firstname": "Павел",
+    "lastname": "Васильев",
+    "email": "pvasilev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2022-08-21T14:42:03"
+  },
+  {
+    "id": 45,
+    "firstname": "Тимур",
+    "lastname": "Дмитриев",
+    "email": "tdmitriev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2022-10-05T21:04:40"
+  },
+  {
+    "id": 46,
+    "firstname": "Павел",
+    "lastname": "Петров",
+    "email": "ppetrov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2024-09-13T23:56:03"
+  },
+  {
+    "id": 47,
+    "firstname": "Карина",
+    "lastname": "Павлова",
+    "email": "kpavlova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2022-04-16T11:26:20"
+  },
+  {
+    "id": 48,
+    "firstname": "Егор",
+    "lastname": "Зайцев",
+    "email": "ezaytsev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-06-20T23:30:07"
+  },
+  {
+    "id": 49,
+    "firstname": "Анастасия",
+    "lastname": "Орлова",
+    "email": "aorlova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2020-10-24T00:20:20"
+  },
+  {
+    "id": 50,
+    "firstname": "Кристина",
+    "lastname": "Дмитриева",
+    "email": "kdmitrieva@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-02-13T02:40:02"
+  },
+  {
+    "id": 51,
+    "firstname": "Тимофей",
+    "lastname": "Павлов",
+    "email": "tpavlov@edu.hse.ru",
+    "position": "ассистент",
+    "registered_at": "2021-06-26T12:42:25"
+  },
+  {
+    "id": 52,
+    "firstname": "Тимур",
+    "lastname": "Егоров",
+    "email": "tegorov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2024-02-22T10:22:33"
+  },
+  {
+    "id": 53,
+    "firstname": "Владислав",
+    "lastname": "Фролов",
+    "email": "vfrolov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-05-24T22:16:13"
+  },
+  {
+    "id": 54,
+    "firstname": "Виктор",
+    "lastname": "Александров",
+    "email": "valeksandrov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-05-11T03:46:17"
+  },
+  {
+    "id": 55,
+    "firstname": "Егор",
+    "lastname": "Михайлов",
+    "email": "emikhaylov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-03-14T20:08:32"
+  },
+  {
+    "id": 56,
+    "firstname": "Егор",
+    "lastname": "Степанов",
+    "email": "estepanov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2022-05-12T12:29:02"
+  },
+  {
+    "id": 57,
+    "firstname": "Виктор",
+    "lastname": "Ильин",
+    "email": "vilin@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2022-12-17T18:24:04"
+  },
+  {
+    "id": 58,
+    "firstname": "Екатерина",
+    "lastname": "Попова",
+    "email": "epopova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-01-13T23:05:36"
+  },
+  {
+    "id": 59,
+    "firstname": "Евгения",
+    "lastname": "Козлова",
+    "email": "ekozlova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2020-06-29T00:07:44"
+  },
+  {
+    "id": 60,
+    "firstname": "Светлана",
+    "lastname": "Новикова",
+    "email": "snovikova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2022-12-08T05:52:58"
+  },
+  {
+    "id": 61,
+    "firstname": "Вера",
+    "lastname": "Ковалёва",
+    "email": "vkovaleva@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2024-10-17T20:25:19"
+  },
+  {
+    "id": 62,
+    "firstname": "Иван",
+    "lastname": "Васильев",
+    "email": "ivasilev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-09-02T19:51:51"
+  },
+  {
+    "id": 63,
+    "firstname": "Лев",
+    "lastname": "Никитин",
+    "email": "lnikitin@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2026-03-13T05:23:30"
+  },
+  {
+    "id": 64,
+    "firstname": "Софья",
+    "lastname": "Кузнецова",
+    "email": "skuznetsova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-06-16T13:16:35"
+  },
+  {
+    "id": 65,
+    "firstname": "Тимур",
+    "lastname": "Макаров",
+    "email": "tmakarov@edu.hse.ru",
+    "position": "преподаватель",
+    "registered_at": "2022-05-10T09:05:06"
+  },
+  {
+    "id": 66,
+    "firstname": "Илья",
+    "lastname": "Тарасов",
+    "email": "itarasov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2024-07-22T22:35:51"
+  },
+  {
+    "id": 67,
+    "firstname": "Ярослав",
+    "lastname": "Егоров",
+    "email": "yaegorov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-10-27T06:26:46"
+  },
+  {
+    "id": 68,
+    "firstname": "Анна",
+    "lastname": "Волкова",
+    "email": "avolkova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-09-22T14:59:24"
+  },
+  {
+    "id": 69,
+    "firstname": "Егор",
+    "lastname": "Морозов",
+    "email": "emorozov@edu.hse.ru",
+    "position": "ассистент",
+    "registered_at": "2021-03-18T13:55:40"
+  },
+  {
+    "id": 70,
+    "firstname": "Георгий",
+    "lastname": "Романов",
+    "email": "gromanov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2022-06-30T07:15:58"
+  },
+  {
+    "id": 71,
+    "firstname": "Наталья",
+    "lastname": "Николаева",
+    "email": "nnikolaeva@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2022-07-21T08:06:59"
+  },
+  {
+    "id": 72,
+    "firstname": "Виктор",
+    "lastname": "Алексеев",
+    "email": "valekseev@edu.hse.ru",
+    "position": "ассистент",
+    "registered_at": "2024-06-20T11:57:05"
+  },
+  {
+    "id": 73,
+    "firstname": "Надежда",
+    "lastname": "Васильева",
+    "email": "nvasileva@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-02-17T12:47:05"
+  },
+  {
+    "id": 74,
+    "firstname": "Арина",
+    "lastname": "Фролова",
+    "email": "afrolova@edu.hse.ru",
+    "position": "ассистент",
+    "registered_at": "2023-09-18T01:00:17"
+  },
+  {
+    "id": 75,
+    "firstname": "Никита",
+    "lastname": "Королёв",
+    "email": "nkorolev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2022-12-23T01:23:34"
+  },
+  {
+    "id": 76,
+    "firstname": "Павел",
+    "lastname": "Борисов",
+    "email": "pborisov@edu.hse.ru",
+    "position": "куратор",
+    "registered_at": "2023-11-16T11:25:14"
+  },
+  {
+    "id": 77,
+    "firstname": "Кристина",
+    "lastname": "Сергеева",
+    "email": "ksergeeva@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-04-18T14:01:28"
+  },
+  {
+    "id": 78,
+    "firstname": "Егор",
+    "lastname": "Кузнецов",
+    "email": "ekuznetsov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2024-11-21T00:03:41"
+  },
+  {
+    "id": 79,
+    "firstname": "Илья",
+    "lastname": "Борисов",
+    "email": "iborisov@edu.hse.ru",
+    "position": "преподаватель",
+    "registered_at": "2020-10-13T12:01:19"
+  },
+  {
+    "id": 80,
+    "firstname": "Арина",
+    "lastname": "Михайлова",
+    "email": "amikhaylova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-05-15T18:27:49"
+  },
+  {
+    "id": 81,
+    "firstname": "Татьяна",
+    "lastname": "Зайцева",
+    "email": "tzaytseva@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-04-26T20:11:07"
+  },
+  {
+    "id": 82,
+    "firstname": "Михаил",
+    "lastname": "Соловьёв",
+    "email": "msolovev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2024-04-01T06:20:10"
+  },
+  {
+    "id": 83,
+    "firstname": "Ксения",
+    "lastname": "Александрова",
+    "email": "kaleksandrova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2020-01-02T11:03:49"
+  },
+  {
+    "id": 84,
+    "firstname": "Алиса",
+    "lastname": "Борисова",
+    "email": "aborisova@edu.hse.ru",
+    "position": "куратор",
+    "registered_at": "2023-08-12T16:55:46"
+  },
+  {
+    "id": 85,
+    "firstname": "Анастасия",
+    "lastname": "Сорокина",
+    "email": "asorokina@edu.hse.ru",
+    "position": "ассистент",
+    "registered_at": "2022-05-25T18:36:40"
+  },
+  {
+    "id": 86,
+    "firstname": "Алёна",
+    "lastname": "Медведева",
+    "email": "amedvedeva@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-11-26T23:59:16"
+  },
+  {
+    "id": 87,
+    "firstname": "Павел",
+    "lastname": "Андреев",
+    "email": "pandreev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-01-17T08:33:04"
+  },
+  {
+    "id": 88,
+    "firstname": "Виктория",
+    "lastname": "Алексеева",
+    "email": "valekseeva@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-08-26T00:53:21"
+  },
+  {
+    "id": 89,
+    "firstname": "Даниил",
+    "lastname": "Романов",
+    "email": "dromanov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2020-10-25T16:34:52"
+  },
+  {
+    "id": 90,
+    "firstname": "Людмила",
+    "lastname": "Ильина",
+    "email": "lilina@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2022-03-07T13:58:48"
+  },
+  {
+    "id": 91,
+    "firstname": "Ксения",
+    "lastname": "Егорова",
+    "email": "kegorova@edu.hse.ru",
+    "position": "куратор",
+    "registered_at": "2021-08-27T23:53:10"
+  },
+  {
+    "id": 92,
+    "firstname": "Тимур",
+    "lastname": "Антонов",
+    "email": "tantonov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-03-12T15:28:44"
+  },
+  {
+    "id": 93,
+    "firstname": "Никита",
+    "lastname": "Виноградов",
+    "email": "nvinogradov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2025-10-22T16:54:49"
+  },
+  {
+    "id": 94,
+    "firstname": "Матвей",
+    "lastname": "Егоров",
+    "email": "megorov@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2021-05-12T16:37:09"
+  },
+  {
+    "id": 95,
+    "firstname": "Степан",
+    "lastname": "Григорьев",
+    "email": "sgrigorev@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2025-12-15T20:20:59"
+  },
+  {
+    "id": 96,
+    "firstname": "Светлана",
+    "lastname": "Яковлева",
+    "email": "syakovleva@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2025-08-29T15:32:13"
+  },
+  {
+    "id": 97,
+    "firstname": "Людмила",
+    "lastname": "Морозова",
+    "email": "lmorozova@edu.hse.ru",
+    "position": "ассистент",
+    "registered_at": "2025-04-28T16:23:11"
+  },
+  {
+    "id": 98,
+    "firstname": "Евгения",
+    "lastname": "Ильина",
+    "email": "eilina@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-02-09T18:58:47"
+  },
+  {
+    "id": 99,
+    "firstname": "Диана",
+    "lastname": "Егорова",
+    "email": "degorova@edu.hse.ru",
+    "position": "студент",
+    "registered_at": "2023-01-29T16:00:54"
+  },
+  {
+    "id": 100,
+    "firstname": "Глеб",
+    "lastname": "Степанов",
+    "email": "gstepanov@edu.hse.ru",
+    "position": "преподаватель",
+    "registered_at": "2022-08-18T09:53:34"
+  }
+]
